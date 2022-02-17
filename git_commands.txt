@@ -1,0 +1,9 @@
+# For initializing the project
+git init
+# git add <filename.ext>
+git add
+# git status
+git status
+# git commit
+git commit -m "msg"
+
